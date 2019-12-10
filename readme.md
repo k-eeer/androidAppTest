@@ -10,4 +10,4 @@ Appium-linux-1.15.1.AppImage
 
 This test tend to know whether 9*2=18 on calculator app and record this action as python script.
 
-![image](https://raw.githubusercontent.com/k-eeer/appiumtest/master/appTest1.png?token=AI7IU77RXARQFESLRGM4UV2556XRE)
+![image](https://github.com/k-eeer/appiumtest/blob/master/appTest1.png?raw=true)
