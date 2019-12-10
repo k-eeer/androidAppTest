@@ -1,8 +1,11 @@
 #environment:
 
 ubuntu 18.04
+
 Android Studio
+
 Appium
+
 Appium-linux-1.15.1.AppImage
 
 
