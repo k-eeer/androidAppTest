@@ -1,6 +1,6 @@
-This is a demo of Appium GUI mode,  which tests a android calculator application with an action (9+9)
+This is a demo of Appium in Python,  which tests a android calculator application with an action (9+9)
 
- will be 18 or not. The recored action can be recorded as a python script.
+ will be 18 or not. And saves the final snap shot.
 
 # Environment and Prerequisites:
 
