@@ -15,7 +15,7 @@ Appium-linux-1.15.1.AppImage
 
 # description:
 
-This test tend to know whether 9*2=18
+This test tend to know whether 9+9=18
 
 on calculator app and record this action as python script.
 
