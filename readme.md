@@ -31,6 +31,7 @@ $python appiumTest.py
 
 ![image](https://github.com/k-eeer/appiumTest/blob/master/appiumTestInPython.png)
 
+
 ![image](https://github.com/k-eeer/appiumTest/blob/master/addtionResult.png)
 
 
