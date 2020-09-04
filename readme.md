@@ -39,6 +39,9 @@ you can use 'emulator list-avds' to list device you want to open
 
 $adb start-server| ~/sdk/emulator/emulator -avd Pixel_XL_API_29
 
+
+
+
 at another terminal window:
 $adb shell monkey -p info.woodsmall.calculator -v 10 >appLoadTest.txt 2>&1
 
