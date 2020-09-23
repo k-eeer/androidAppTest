@@ -6,6 +6,8 @@ ubuntu 18.04
 
 Android Studio 3.5.2
 
+Appium-Python-Client 1.0.2
+
 Appium 1.15.1
 
 Android Debug Bridge (adb)1.0.39
