@@ -45,7 +45,8 @@ $adb start-server| ~/sdk/emulator/emulator -avd Pixel_XL_API_29
 <br/><br/>
 
 at another terminal window:<br/>
-$adb shell monkey -p info.woodsmall.calculator -v 10 >appLoadTest.txt 2>&1<br/>
-
-the output file: https://github.com/k-eeer/androidAppTest/blob/master/appLoadTest.txt
+$adb shell monkey -p info.woodsmall.calculator -v 10 >appLoadTest.txt 2>&1<br/><br/>
+As result in the output file, all the 10 times test executed successfully.<br/>
+![image](https://github.com/k-eeer/androidAppTest/blob/master/appMonkeyResult.png)<br/>
+the complete output file: https://github.com/k-eeer/androidAppTest/blob/master/appLoadTest.txt
 
